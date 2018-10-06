@@ -1,6 +1,6 @@
-Mars is nice
-Mars is red
+Mars is nice.
+Mars is red.
 I like Mars. 
-fun fun fun
-placing in token text
+fun fun fun!
+placing in token text. I need more coffee.
 
