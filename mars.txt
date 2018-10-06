@@ -4,9 +4,13 @@ I like Mars.
 fun fun fun!
 placing in token text. I need more coffee.
 <<<<<<< HEAD
+<<<<<<< HEAD
 need to make another change 
 lets see if i can do this 
 hello I i’m here too!
+=======
+
+>>>>>>> parent of ec014fd... added more lines of text
 =======
 
 >>>>>>> parent of ec014fd... added more lines of text
